@@ -1,0 +1,14 @@
+E:\Coding\backend övningar\sockets\klient\bin\Debug\net8.0\klient.exe
+E:\Coding\backend övningar\sockets\klient\bin\Debug\net8.0\klient.deps.json
+E:\Coding\backend övningar\sockets\klient\bin\Debug\net8.0\klient.runtimeconfig.json
+E:\Coding\backend övningar\sockets\klient\bin\Debug\net8.0\klient.dll
+E:\Coding\backend övningar\sockets\klient\bin\Debug\net8.0\klient.pdb
+E:\Coding\backend övningar\sockets\klient\obj\Debug\net8.0\klient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\backend övningar\sockets\klient\obj\Debug\net8.0\klient.AssemblyInfoInputs.cache
+E:\Coding\backend övningar\sockets\klient\obj\Debug\net8.0\klient.AssemblyInfo.cs
+E:\Coding\backend övningar\sockets\klient\obj\Debug\net8.0\klient.csproj.CoreCompileInputs.cache
+E:\Coding\backend övningar\sockets\klient\obj\Debug\net8.0\klient.dll
+E:\Coding\backend övningar\sockets\klient\obj\Debug\net8.0\refint\klient.dll
+E:\Coding\backend övningar\sockets\klient\obj\Debug\net8.0\klient.pdb
+E:\Coding\backend övningar\sockets\klient\obj\Debug\net8.0\klient.genruntimeconfig.cache
+E:\Coding\backend övningar\sockets\klient\obj\Debug\net8.0\ref\klient.dll

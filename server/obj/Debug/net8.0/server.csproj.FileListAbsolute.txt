@@ -1,0 +1,14 @@
+E:\Coding\backend övningar\sockets\server\bin\Debug\net8.0\server.exe
+E:\Coding\backend övningar\sockets\server\bin\Debug\net8.0\server.deps.json
+E:\Coding\backend övningar\sockets\server\bin\Debug\net8.0\server.runtimeconfig.json
+E:\Coding\backend övningar\sockets\server\bin\Debug\net8.0\server.dll
+E:\Coding\backend övningar\sockets\server\bin\Debug\net8.0\server.pdb
+E:\Coding\backend övningar\sockets\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\backend övningar\sockets\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+E:\Coding\backend övningar\sockets\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+E:\Coding\backend övningar\sockets\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+E:\Coding\backend övningar\sockets\server\obj\Debug\net8.0\server.dll
+E:\Coding\backend övningar\sockets\server\obj\Debug\net8.0\refint\server.dll
+E:\Coding\backend övningar\sockets\server\obj\Debug\net8.0\server.pdb
+E:\Coding\backend övningar\sockets\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+E:\Coding\backend övningar\sockets\server\obj\Debug\net8.0\ref\server.dll
